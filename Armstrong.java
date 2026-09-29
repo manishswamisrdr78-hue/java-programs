@@ -12,7 +12,10 @@ public class Armstrong {
              
         }
         if (original == sum){
-            System
+            System.out.println(n + " is an Armstrong Number. ");
+        }
+        else{
+            System.out.println(n + " isn't an Armstrong Number. ");
         }
     }
     
