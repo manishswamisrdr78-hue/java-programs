@@ -15,3 +15,4 @@ public class stringExample {
         System.out.println(first.concat(second));
     }
 }
+
